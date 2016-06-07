@@ -1,0 +1,20 @@
+worldName: world
+time-between-events-minutes: 1
+meteorlanding:
+    countdown: 5
+    duration: 900
+    regions: 
+       - meteorlanding_1
+       - meteorlanding_2
+    meteor-radius: 2
+    crater-radius: 5
+    reset-delay: 5
+pirateinvasion:
+    countdown: 5
+    duration: 60
+    max-pirates: 5
+    rewards:
+       - lol i wb 1 {playerName}
+purge:
+    countdown: 5
+    duration: 60

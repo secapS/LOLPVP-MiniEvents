@@ -1,0 +1,7 @@
+name: LOLPVP MiniEvents
+main: com.lolpvp.minievents.core.MiniEvents
+author: Spaces
+version: 0.1
+depend: [WorldGuard,WorldEdit]
+commands:
+   minievents:
